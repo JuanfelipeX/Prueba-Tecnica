@@ -1,0 +1,34 @@
+.container-text {
+    margin-top: 50px;
+}
+
+.col-sm {
+    margin-top: 5rem;
+}
+
+.text-lorem {
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+@media (max-width: 768px) {
+    .text-lorem {
+        font-size: 1.2rem;
+    }
+    .img-welcome {
+        height: 250px;
+    }
+}
+
+.img-products {
+    width: 100%;
+    height: 250px;
+}
+
+.section-heading {
+    margin-top: 100px;
+}
+
+.contact-section {
+    margin-top: 100px;
+}
